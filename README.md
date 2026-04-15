@@ -42,11 +42,17 @@ For billing, bug reports, or suggestions:
 * **Telegram:** [@toika12](https://t.me/toika12)
 
 ---
+
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c667a826-44f1-4442-a775-9ee602a2b1da" />
+
 ---
+
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4bb4e6a0-4efc-4716-b247-c7a91a579d02" />
+
 ---
+
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/41af861e-a456-42ca-b5d4-644fd500bfb7" />
+
 ---
 
 *Disclaimer: This software is for educational purposes only. Use at your own risk.*
