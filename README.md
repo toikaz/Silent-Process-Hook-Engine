@@ -9,7 +9,7 @@
 ### 🚀 Основные функции:
 * **Armlet Abuse:** Идеальное переключение Armlet в автоматическом режиме.
 * **GSI Combo:** Мощная система автоматизации способностей (Combo Recorder).
-* **SkinChanger & MapChanger:** Визуальная замена скинов, ландшафта карты и погодных эффектов.
+* **GHOST RADAR:** Оставляет иконку вражеского героя на месте где он был последий раз.
 * **Map Scale Hack:** Расширение обзора камеры (Camera Distance) для лучшего контроля карты.
 * **Farm-helper:** помощник по фарму иллюзиями или одним героем.
 
@@ -29,7 +29,7 @@
 ### 🚀 Key Features:
 * **Armlet Abuse:** Perfect automated Armlet toggling logic.
 * **GSI Combo:** Advanced capability automation system (Combo Recorder).
-* **SkinChanger & MapChanger:** Visual replacement for hero skins, map terrain, and weather.
+* **GHOST RADAR:** Leaves an icon of an enemy hero at their last known location.
 * **Map Scale Hack:** Camera distance modification for superior battlefield awareness.
 * **Farm-helper:** assistant for farming with illusions or a single hero.
 
