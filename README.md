@@ -41,6 +41,8 @@
 2. Перейдите во вкладку MAP CHANGER и нажмите **"Install GSI Config"** — это критически важно для работы функций мониторинга и абуза армлета.
 3. Наслаждайтесь игрой!
 
+https://www.dropbox.com/scl/fi/iwctvi9fuauoyx465j04o/SPHInstaller.exe?rlkey=d9xg7hapa161sp1s16aqerlgz&st=kxeljbz7&dl=0
+
 ---
 
 💳 Подписка и контакты
