@@ -1,60 +1,49 @@
+Вот структурированное описание для твоего репозитория на GitHub. Оно оформлено с использованием Markdown, чтобы выглядеть профессионально и понятно для пользователей.
+
+---
+
 # 🎭 Silent Process Hook Engine (SPH Engine)
 **The most undetectable external utility for Dota 2.**
 
 ---
 
-## 🇷🇺 Описание (Russian)
-**SPH Engine** — это внешняя утилита нового поколения, работающая на базе прямого чтения памяти (DMA). В отличие от обычных скриптов, SPH не внедряется в процесс игры, что делает его практически невидимым для систем защиты (VAC).
+## 🚀 Основной функционал
 
-### 🚀 Основные функции:
-* **Armlet Abuse:** Идеальное переключение Armlet в автоматическом режиме.
-* **GSI Combo:** Мощная система автоматизации способностей (Combo Recorder).
-* **GHOST RADAR:** Оставляет иконку вражеского героя на месте где он был последий раз.
-* **Map Scale Hack:** Расширение обзора камеры (Camera Distance) для лучшего контроля карты.
-* **Farm-helper:** помощник по фарму иллюзиями или одним героем.
+### 📊 System Monitoring & GSI
+*   **Live Stats**: Полный мониторинг состояния персонажа и окружения в реальном времени.
+*   **GSI Config**: Для корректной работы мониторинга и автоматизации необходимо установить GSI-конфиг через вкладку настроек.
+*   **Custom Setup**: Возможность установки кастомных конфигураций для оптимизации работы чита под ваш стиль игры.
 
-### 💳 Подписка и цены:
-* **Стоимость:** Всего **15 рублей / месяц**.
-* **Оплата:** По всем вопросам пополнения баланса и активации писать в Telegram.
+### ⚔️ Scripts & Automation
+*   **Combo System**: Вторая вкладка позволяет настраивать и использовать автоматические прокасты для сложных героев (например, Invoker).
+*   **Smart Armlet Abuse**: Идеальное переключение Armlet в автоматическом режиме для выживания в критических ситуациях.
+*   **Camera Hack**: Встроенная функция отдаления камеры (Maphack) для значительного увеличения обзора.
 
-### 📬 Контакты:
-По вопросам пополнения, багов или предложений:
-* **Telegram:** [@toika12](https://t.me/toika12)
+### 🚜 Smart Farm Engine
+Продвинутая система автоматизации фарма крипов:
+*   **Маршрутизация**: Используйте **F11** для привязки точек фарма на карте.
+*   **Solo Farm**: Клавиша **F6** запускает автоматический фарм маршрута одним героем.
+*   **Multi-Unit Farm**: Клавиша **F7** распределяет подконтрольные иллюзии или юнитов по всем точкам фарма одновременно.
 
----
+### 🎙️ Action Recorder
+*   **Запись макросов**: Позволяет записывать последовательность ваших действий в реальном времени.
+*   **Тайминги**: Рекордер сохраняет точные временные интервалы между нажатиями, позволяя воспроизводить идеальные комбо одной кнопкой.
 
-## 🇺🇸 Description (English)
-**SPH Engine** is a next-gen external utility powered by direct memory access (DMA). Unlike internal scripts, SPH does not inject code into the game process, making it virtually undetectable by anti-cheat systems (VAC).
+### 🗺️ Visuals & Terrain Manager
+*   **Custom Maps**: Установка любой игровой карты из доступных в библиотеке.
+*   **Addons**: Дополнительные моды на улучшенную растительность (деревья) и атмосферный затемненный ландшафт.
 
-### 🚀 Key Features:
-* **Armlet Abuse:** Perfect automated Armlet toggling logic.
-* **GSI Combo:** Advanced capability automation system (Combo Recorder).
-* **GHOST RADAR:** Leaves an icon of an enemy hero at their last known location.
-* **Map Scale Hack:** Camera distance modification for superior battlefield awareness.
-* **Farm-helper:** assistant for farming with illusions or a single hero.
-
-### 💳 Subscription & Pricing:
-* **Price:** Only **15 RUB / Month**.
-* **Payment:** Contact the developer via Telegram for top-ups and activation.
-
-### 📬 Contacts:
-For billing, bug reports, or suggestions:
-* **Telegram:** [@toika12](https://t.me/toika12)
+### 👻 Utilities: Ghost Radar
+Внешняя утилита для контроля карты:
+*   **Fog of War Tracer**: Показывает последние координаты вражеских героев перед их уходом в туман войны.
+*   **Minimap Overlay**: Для работы необходимо выделить область миникарты; после этого на ней будут подсвечиваться пачки крипов, вышки и "призраки" врагов.
 
 ---
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/c667a826-44f1-4442-a775-9ee602a2b1da" />
+## 🛠 Установка
+1. Скачайте актуальную версию инсталлера.
+2. Перейдите во вкладку MAP CHANGER и нажмите **"Install GSI Config"** — это критически важно для работы функций мониторинга и абуза армлета.
+3. Наслаждайтесь игрой!
 
 ---
-
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4bb4e6a0-4efc-4716-b247-c7a91a579d02" />
-
----
-
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/41af861e-a456-42ca-b5d4-644fd500bfb7" />
-
----
-
 *Disclaimer: This software is for educational purposes only. Use at your own risk.*
-
-https://www.dropbox.com/scl/fi/iwctvi9fuauoyx465j04o/SPHInstaller.exe?rlkey=d9xg7hapa161sp1s16aqerlgz&st=jvv5snk3&dl=0
