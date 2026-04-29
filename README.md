@@ -42,4 +42,12 @@
 3. Наслаждайтесь игрой!
 
 ---
-*Disclaimer: This software is for educational purposes only. Use at your own risk.*
+
+💳 Подписка и контакты
+Стоимость: Всего 15 рублей / месяц.
+
+Покупка: По вопросам оплаты, активации и багов писать в Telegram: @toika12.
+
+---
+
+Disclaimer: This software is for educational purposes only. Use at your own risk.
