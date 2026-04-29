@@ -1,7 +1,3 @@
-Вот структурированное описание для твоего репозитория на GitHub. Оно оформлено с использованием Markdown, чтобы выглядеть профессионально и понятно для пользователей.
-
----
-
 # 🎭 Silent Process Hook Engine (SPH Engine)
 **The most undetectable external utility for Dota 2.**
 
